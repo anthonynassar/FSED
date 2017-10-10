@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbl_IMG_META>
+  <IMG_META id_image="1">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 18:01:00</META>
+  </IMG_META>
+  <IMG_META id_image="2">
+    <META id_meta="1">B</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 18:08:00</META>
+  </IMG_META>
+  <IMG_META id_image="3">
+    <META id_meta="1">C</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 18:32:00</META>
+  </IMG_META>
+  <IMG_META id_image="4">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 18:38:00</META>
+  </IMG_META>
+  <IMG_META id_image="5">
+    <META id_meta="1">B</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 18:38:00</META>
+  </IMG_META>
+  <IMG_META id_image="6">
+    <META id_meta="1">C</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 19:42:00</META>
+  </IMG_META>
+  <IMG_META id_image="7">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 20:45:00</META>
+  </IMG_META>
+  <IMG_META id_image="8">
+    <META id_meta="1">B</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 20:45:00</META>
+  </IMG_META>
+  <IMG_META id_image="9">
+    <META id_meta="1">C</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 22:20:00</META>
+  </IMG_META>
+  <IMG_META id_image="10">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Ile-de France</META>
+    <META id_meta="6">Paris</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 22:58:00</META>
+  </IMG_META>
+  <IMG_META id_image="11">
+    <META id_meta="1">D</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 09:16:00</META>
+  </IMG_META>
+  <IMG_META id_image="12">
+    <META id_meta="1">D</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 11:07:00</META>
+  </IMG_META>
+  <IMG_META id_image="13">
+    <META id_meta="1">D</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 11:41:00</META>
+  </IMG_META>
+  <IMG_META id_image="14">
+    <META id_meta="1">E</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 13:32:00</META>
+  </IMG_META>
+  <IMG_META id_image="15">
+    <META id_meta="1">E</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 13:52:00</META>
+  </IMG_META>
+  <IMG_META id_image="16">
+    <META id_meta="1">E</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-17 16:38:00</META>
+  </IMG_META>
+  <IMG_META id_image="17">
+    <META id_meta="1">E</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-17 18:56:00</META>
+  </IMG_META>
+  <IMG_META id_image="18">
+    <META id_meta="1">F</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-17 19:17:00</META>
+  </IMG_META>
+  <IMG_META id_image="19">
+    <META id_meta="1">F</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-17 20:05:00</META>
+  </IMG_META>
+  <IMG_META id_image="20">
+    <META id_meta="1">F</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Anglet</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-17 20:30:00</META>
+  </IMG_META>
+  <IMG_META id_image="21">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-18 11:27:00</META>
+  </IMG_META>
+  <IMG_META id_image="22">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-18 11:37:00</META>
+  </IMG_META>
+  <IMG_META id_image="23">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-18 11:40:00</META>
+  </IMG_META>
+  <IMG_META id_image="24">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-18 12:28:00</META>
+  </IMG_META>
+  <IMG_META id_image="25">
+    <META id_meta="1">A</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-18 12:50:00</META>
+  </IMG_META>
+  <IMG_META id_image="26">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 22:50:00</META>
+  </IMG_META>
+  <IMG_META id_image="27">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 22:53:00</META>
+  </IMG_META>
+  <IMG_META id_image="28">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 22:59:00</META>
+  </IMG_META>
+  <IMG_META id_image="29">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 23:40:00</META>
+  </IMG_META>
+  <IMG_META id_image="30">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-15 23:55:00</META>
+  </IMG_META>
+  <IMG_META id_image="31">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-16 00:50:00</META>
+  </IMG_META>
+  <IMG_META id_image="32">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-16 00:52:00</META>
+  </IMG_META>
+  <IMG_META id_image="33">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-16 00:55:00</META>
+  </IMG_META>
+  <IMG_META id_image="34">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-16 00:58:00</META>
+  </IMG_META>
+  <IMG_META id_image="35">
+    <META id_meta="1">G</META>
+    <META id_meta="2" />
+    <META id_meta="3" />
+    <META id_meta="4">France</META>
+    <META id_meta="5">Aquitaine</META>
+    <META id_meta="6">Bayonne</META>
+    <META id_meta="7" />
+    <META id_meta="8">2015-08-16 00:59:00</META>
+  </IMG_META>
+</tbl_IMG_META>
+

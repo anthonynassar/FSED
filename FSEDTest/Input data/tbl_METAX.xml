@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbl_META>
+  <Meta>
+    <ID>1</ID>
+    <Label>Artist</Label>
+    <Description />
+    <Type />
+    <Cat />
+  </Meta>
+  <Meta>
+    <ID>2</ID>
+    <Label>GPS Latitude</Label>
+    <Description />
+    <Type />
+    <Cat />
+  </Meta>
+  <Meta>
+    <ID>3</ID>
+    <Label>GPS Longitude</Label>
+    <Description />
+    <Type />
+    <Cat />
+  </Meta>
+  <Meta>
+    <ID>4</ID>
+    <Label>Country</Label>
+    <Description />
+    <Type />
+    <Cat />
+  </Meta>
+  <Meta>
+    <ID>5</ID>
+    <Label>Region</Label>
+    <Description />
+    <Type />
+    <Cat />
+  </Meta>
+  <Meta>
+    <ID>6</ID>
+    <Label>City</Label>
+    <Description />
+    <Type />
+    <Cat />
+  </Meta>
+  <Meta>
+    <ID>7</ID>
+    <Label>Street</Label>
+    <Description />
+    <Type />
+    <Cat />
+  </Meta>
+  <Meta>
+    <ID>8</ID>
+    <Label>Date/Time Original</Label>
+    <Description />
+    <Type />
+    <Cat />
+  </Meta>
+</tbl_META>
+
